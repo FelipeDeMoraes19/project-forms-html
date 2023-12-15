@@ -26,9 +26,16 @@ input{
 input[type= "next"],
 input[type= "number"],
 input[type= "date"],
-input[type= "file"]{
+input[type= "file"],
+textarea{
     width: 400px;
 }
+
+textarea{
+    padding: 10px 5px;
+
+}
+
 
 .header{
     height: 160px;
